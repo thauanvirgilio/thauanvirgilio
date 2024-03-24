@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Virgílio, I'm a Trainee frontend software developer!</h1>
+<h1 align="center">Hi, I'm Virgílio, I'm a Trainee frontend software developer!</h1>
 
 ###
 
