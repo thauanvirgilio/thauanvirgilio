@@ -1,10 +1,4 @@
-<h1 align="left">Olá, me chamo Virgilio, sou desenvolvedor Trainee Frontend!</h1>
-
-###
-
-<div align="center">
-  <img height="550" src="https://i.pinimg.com/originals/5c/3e/39/5c3e39b6d872f973a5a3aaa1179dce5d.gif"  />
-</div>
+<h1 align="left">Hi, I'm Virgílio, I'm a Trainee frontend software developer!</h1>
 
 ###
 
@@ -15,7 +9,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img height="500" src="https://giffiles.alphacoders.com/190/190411.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -29,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/thauanvirgilio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
